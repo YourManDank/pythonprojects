@@ -30,9 +30,3 @@ print(motor_vehicles)
 # Changing the item at position [0] in the list:
 motor_vehicles[0] = 'Volkswagen'
 print(motor_vehicles)
-
-# Adding an item to the list; the simplest way is to append items to a list (add to end):
-olympic_sports = ['Wrestling','Hurdles','Shot Put Throw','Gymnastics']
-print(olympic_sports)
-olympic_sports.append('Hammer Toss')
-print(olympic_sports)
